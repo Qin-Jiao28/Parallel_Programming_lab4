@@ -1,0 +1,2 @@
+# Parallel_Programming_lab4
+口令猜测MPI编程实验
